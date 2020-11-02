@@ -1,0 +1,6 @@
+D:\C Sharp\Day5\CSharpDay5\GenericConcepts\bin\Debug\GenericConcepts.exe.config
+D:\C Sharp\Day5\CSharpDay5\GenericConcepts\bin\Debug\GenericConcepts.exe
+D:\C Sharp\Day5\CSharpDay5\GenericConcepts\bin\Debug\GenericConcepts.pdb
+D:\C Sharp\Day5\CSharpDay5\GenericConcepts\obj\Debug\GenericConcepts.exe
+D:\C Sharp\Day5\CSharpDay5\GenericConcepts\obj\Debug\GenericConcepts.pdb
+D:\C Sharp\Day5\CSharpDay5\GenericConcepts\obj\Debug\GenericConcepts.csprojAssemblyReference.cache

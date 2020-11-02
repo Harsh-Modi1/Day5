@@ -1,0 +1,6 @@
+D:\C Sharp\Day5\CSharpDay5\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.csprojAssemblyReference.cache
+D:\C Sharp\Day5\CSharpDay5\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe.config
+D:\C Sharp\Day5\CSharpDay5\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe
+D:\C Sharp\Day5\CSharpDay5\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.pdb
+D:\C Sharp\Day5\CSharpDay5\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.exe
+D:\C Sharp\Day5\CSharpDay5\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.pdb

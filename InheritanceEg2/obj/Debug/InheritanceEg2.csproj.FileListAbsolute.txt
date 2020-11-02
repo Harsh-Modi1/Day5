@@ -1,0 +1,6 @@
+D:\C Sharp\Day5\CSharpDay5\InheritanceEg2\bin\Debug\InheritanceEg2.exe.config
+D:\C Sharp\Day5\CSharpDay5\InheritanceEg2\bin\Debug\InheritanceEg2.exe
+D:\C Sharp\Day5\CSharpDay5\InheritanceEg2\bin\Debug\InheritanceEg2.pdb
+D:\C Sharp\Day5\CSharpDay5\InheritanceEg2\obj\Debug\InheritanceEg2.csprojAssemblyReference.cache
+D:\C Sharp\Day5\CSharpDay5\InheritanceEg2\obj\Debug\InheritanceEg2.exe
+D:\C Sharp\Day5\CSharpDay5\InheritanceEg2\obj\Debug\InheritanceEg2.pdb
